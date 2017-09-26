@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 int sum(int x, int y){
-return x+y;
+    return x+y;
 }
 int razn(int x, int y){
     return x-y;
@@ -34,7 +34,7 @@ int main()
 { 
 int i;
 int x;
-int y;
+m,.int y;
 char op1,op;
 cin >>x;
 cin >>op;
