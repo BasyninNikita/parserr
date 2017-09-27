@@ -44,7 +44,7 @@ int main()
 { 
 int i;
 int x;
-m,.int y;
+int y;
 char op1,op;
 cin >>x;
 cin >>op;
