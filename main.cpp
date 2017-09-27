@@ -58,7 +58,6 @@ else if(op=='<')
 }
     cin>>y;
 
-
 if( op == '+' )
 {
     cout << sum(x, y) << endl;
@@ -80,7 +79,6 @@ else if( op == '/' )
 else
 cout << razd(x, y) << endl;
 }
-
 else if( op == '%' ) 
 {
     cout << ost(x, y) << endl;
@@ -111,5 +109,4 @@ else
 }
 cin.get();
 return 0;
-
 }
