@@ -97,10 +97,6 @@ else if( op == '^' )
 {
     cout << XOR(x, y) << endl;
 }
-else if( op == '/' ) 
-{
-    cout << razd(x, y) << endl;
-}
 else if (op=='<',op1=='<') 
 {
     cout << SDL(x, y) << endl;
